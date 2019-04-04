@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">aplikasi gue</string>
+    <string name="slogan">ini adalah string yang disimpan di values string .xml</string>
+</resources>
